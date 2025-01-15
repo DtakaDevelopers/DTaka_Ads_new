@@ -3,12 +3,12 @@
         "id": 1,
         "title": "Rewards",
         "image": "images/dtaka_ad_1.png",
-        "url": "https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent"
+        "url": "https://consumer.huawei.com/ph/"
     },
     {
         "id": 2,
         "title": "Rewards",
         "image": "images/dtaka_res_1.png",
-        "url": "https://consumer.huawei.com/ph/"
+        "url": "https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent" 
     }
 ]
